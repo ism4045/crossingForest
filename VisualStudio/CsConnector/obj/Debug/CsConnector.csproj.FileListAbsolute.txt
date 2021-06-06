@@ -22,3 +22,16 @@ D:\Unity\UnityWinformTcpConnector\VisualStudio\CsConnector\obj\Debug\CsConnector
 D:\Unity\UnityWinformTcpConnector\VisualStudio\CsConnector\obj\Debug\CsConnector.csproj.CopyComplete
 D:\Unity\UnityWinformTcpConnector\VisualStudio\CsConnector\obj\Debug\CsConnector.exe
 D:\Unity\UnityWinformTcpConnector\VisualStudio\CsConnector\obj\Debug\CsConnector.pdb
+C:\Users\user\Documents\Github\crossingForest\VisualStudio\CsConnector\bin\Debug\CsConnector.exe.config
+C:\Users\user\Documents\Github\crossingForest\VisualStudio\CsConnector\bin\Debug\CsConnector.exe
+C:\Users\user\Documents\Github\crossingForest\VisualStudio\CsConnector\bin\Debug\CsConnector.pdb
+C:\Users\user\Documents\Github\crossingForest\VisualStudio\CsConnector\bin\Debug\UnityNetwork.dll
+C:\Users\user\Documents\Github\crossingForest\VisualStudio\CsConnector\bin\Debug\UnityNetwork.pdb
+C:\Users\user\Documents\Github\crossingForest\VisualStudio\CsConnector\obj\Debug\CsConnector.csprojAssemblyReference.cache
+C:\Users\user\Documents\Github\crossingForest\VisualStudio\CsConnector\obj\Debug\CsConnector.FrmMain.resources
+C:\Users\user\Documents\Github\crossingForest\VisualStudio\CsConnector\obj\Debug\CsConnector.Properties.Resources.resources
+C:\Users\user\Documents\Github\crossingForest\VisualStudio\CsConnector\obj\Debug\CsConnector.csproj.GenerateResource.cache
+C:\Users\user\Documents\Github\crossingForest\VisualStudio\CsConnector\obj\Debug\CsConnector.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Github\crossingForest\VisualStudio\CsConnector\obj\Debug\CsConnector.csproj.CopyComplete
+C:\Users\user\Documents\Github\crossingForest\VisualStudio\CsConnector\obj\Debug\CsConnector.exe
+C:\Users\user\Documents\Github\crossingForest\VisualStudio\CsConnector\obj\Debug\CsConnector.pdb
